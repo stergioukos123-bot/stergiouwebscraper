@@ -1,7 +1,7 @@
-requests.get() → κατέβασες τη σελίδα
+requests.get() → κατεβάζει τη σελίδα
 
-BeautifulSoup → διάβασες το HTML
+BeautifulSoup → διαβάζει το HTML
 
-find_all() → βρήκες στοιχεία
+find_all() → βρίσκει στοιχεία
 
-.text → πήρες το κείμενο
+.text → παίρνει το κείμενο
